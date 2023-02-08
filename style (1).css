@@ -1,0 +1,218 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#main {
+    position: relative;
+    height: 170%;
+    width: 45%;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#first {
+    position: absolute;
+    height: 98.4%;
+    width: 37%;
+    padding-top: 3.2%;
+    background-color: whitesmoke
+}
+
+#one {
+    margin-left: 9%;
+    margin-right: 9%;
+    width: 85%;
+    height: 27%;
+    background-color: white;
+}
+
+#one form {
+    padding-top: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+#box1 p {
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#box2 p {
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#box3 p {
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#two {
+    margin-left: 9%;
+    margin-right: 9%;
+    background-color: white;
+    ;
+    width: 85%;
+    margin-top: 62px;
+}
+
+#second {
+    position: absolute;
+    left: 37%;
+    width: 63%;
+    height: 100%;
+    padding-top: 0.5%;
+    background-color: whitesmoke
+}
+
+#on {
+    margin-right: 5%;
+    height: 53.5%;
+    width: 94%;
+    background-color: white;
+    ;
+    border: 2px solid rgba(0, 0, 0, 0.133)
+}
+
+#on h3 {
+    margin-top: 11px;
+    font-size: 22px;
+}
+
+#on p {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+#on form {
+    margin-top: 5%;
+}
+
+#on h4 {
+    margin-top: 6%;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#on h4 p {
+    font-size: 17px;
+    font-weight: 50;
+}
+
+#on button {
+    position: absolute;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    margin-left: 3.5%;
+    width: 60px;
+}
+
+#box {
+    margin-top: 8%;
+    height: 34%;
+    width: 90%;
+    background-color: rgb(175, 227, 238);
+}
+
+#box i {
+    height: 14px;
+    width: 14px;
+    background-color: blanchedalmond;
+}
+
+#on h5 {
+    margin-top: 5%;
+}
+
+#tw {
+    margin-top: 25px;
+    margin-right: 5%;
+    height: 15.5%;
+    width: 94%;
+    background-color: white;
+    ;
+    border: 2px solid rgba(0, 0, 0, 0.104)
+}
+
+#tw h1 {
+    margin-top: 6px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+#tw p {
+    font-size: 13px;
+    font-weight: 100;
+}
+
+#tw button {
+    background-color: black;
+    color: white;
+    margin-left: 3.5%;
+    width: 60px;
+}
+
+#tw form {
+    margin-top: 18px;
+}
+
+#tw h5 {
+    margin-top: 25px;
+}
+
+#thr {
+    margin-top: 25px;
+    margin-right: 5%;
+    height: 19.5%;
+    width: 94%;
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.132)
+}
+
+#thr h1 {
+    margin-top: 6px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+#thr p {
+    font-size: 13px;
+    font-weight: 100;
+}
+
+#thr form {
+    margin-top: 18px;
+    font-weight: 400;
+}
+
+#box5 button {
+    background-color: black;
+    color: white;
+    margin-left: 3.5%;
+    width: 60px;
+}
+
+#box5 {
+    margin-top: 18px;
+}
+
+#help {
+    margin-top: 24px;
+    background-color: black;
+    color: white;
+    margin-left: 80%;
+    width: 60px;
+}
